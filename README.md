@@ -6,7 +6,7 @@
  ```
  yarn add eslint eslint-plugin-vue eslint-plugin-prettier prettier eslint-plugin-import eslint-config-prettier eslint-config-airbnb-base -D
 
- yarn add typeScript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-import-resolver-alias @types/eslint @types/node -D
+ yarn add typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-import-resolver-alias @types/eslint @types/node -D
  ```
 2、创建.eslintrc.cjs文件并配置
 
